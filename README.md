@@ -56,3 +56,8 @@ This model was originally developed as part of the **Onshape Learning Projects**
 ## Printables:
 Check this out: 
 [Download Parametric Fidget Spinner on Printables](https://www.printables.com/model/1743648-parametric-fidget-spinner-608-bearing)
+
+
+## Onshape: 
+Check this out: 
+[View the CAD source in onshape](https://cad.onshape.com/documents/f2166f5e714c17d599b5ac87/w/b5d8ddc1962a0ce9a94117a6/e/fc7139ae1328600f6d37a2d3?renderMode=0)
